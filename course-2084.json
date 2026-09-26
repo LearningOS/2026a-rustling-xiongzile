@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-xiongzile",
-  "commit": "c88fc131721c2f33028148679a7db77fd90e5024",
-  "score": 47,
+  "commit": "79dd88eaa4738eaf760aab0e064a1da7ccb4451d",
+  "score": 50,
   "totalScore": 110,
   "exercises": [
     {
@@ -338,23 +338,23 @@
     {
       "name": "options1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "options2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "options3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "errors1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "xiongzile",
-  "runId": "36231208674",
+  "runId": "36231952121",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
