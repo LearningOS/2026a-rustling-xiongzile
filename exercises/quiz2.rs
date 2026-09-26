@@ -44,7 +44,8 @@ mod my_module {
                         s += "bar";
                     }
                     s
-                }
+                },
+
             };
             output.push(result);
         }
